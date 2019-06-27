@@ -1,0 +1,13 @@
+C:\Users\Tolga ECEVİT\Desktop\Tolga ECEVİT - Mayın Tarlası\Tolga ECEVİT - Mayın Tarlası\bin\Debug\Tolga ECEVİT - Mayın Tarlası.exe.config
+C:\Users\Tolga ECEVİT\Desktop\Tolga ECEVİT - Mayın Tarlası\Tolga ECEVİT - Mayın Tarlası\bin\Debug\Tolga ECEVİT - Mayın Tarlası.exe
+C:\Users\Tolga ECEVİT\Desktop\Tolga ECEVİT - Mayın Tarlası\Tolga ECEVİT - Mayın Tarlası\bin\Debug\Tolga ECEVİT - Mayın Tarlası.pdb
+C:\Users\Tolga ECEVİT\Desktop\Tolga ECEVİT - Mayın Tarlası\Tolga ECEVİT - Mayın Tarlası\obj\Debug\Tolga ECEVİT - Mayın Tarlası.csprojAssemblyReference.cache
+C:\Users\Tolga ECEVİT\Desktop\Tolga ECEVİT - Mayın Tarlası\Tolga ECEVİT - Mayın Tarlası\obj\Debug\Tolga_ECEVİT___Mayın_Tarlası.Form1.resources
+C:\Users\Tolga ECEVİT\Desktop\Tolga ECEVİT - Mayın Tarlası\Tolga ECEVİT - Mayın Tarlası\obj\Debug\Tolga_ECEVİT___Mayın_Tarlası.Properties.Resources.resources
+C:\Users\Tolga ECEVİT\Desktop\Tolga ECEVİT - Mayın Tarlası\Tolga ECEVİT - Mayın Tarlası\obj\Debug\Tolga ECEVİT - Mayın Tarlası.csproj.GenerateResource.cache
+C:\Users\Tolga ECEVİT\Desktop\Tolga ECEVİT - Mayın Tarlası\Tolga ECEVİT - Mayın Tarlası\obj\Debug\Tolga ECEVİT - Mayın Tarlası.csproj.CoreCompileInputs.cache
+C:\Users\Tolga ECEVİT\Desktop\Tolga ECEVİT - Mayın Tarlası\Tolga ECEVİT - Mayın Tarlası\obj\Debug\Tolga ECEVİT - Mayın Tarlası.exe
+C:\Users\Tolga ECEVİT\Desktop\Tolga ECEVİT - Mayın Tarlası\Tolga ECEVİT - Mayın Tarlası\obj\Debug\Tolga ECEVİT - Mayın Tarlası.pdb
+C:\Users\Tolga ECEVİT\Desktop\Tolga ECEVİT - Mayın Tarlası\Tolga ECEVİT - Mayın Tarlası\obj\Debug\Tolga_ECEVİT___Mayın_Tarlası.Form2.resources
+C:\Users\Tolga ECEVİT\Desktop\Tolga ECEVİT - Mayın Tarlası\Tolga ECEVİT - Mayın Tarlası\obj\Debug\Tolga_ECEVİT___Mayın_Tarlası.LiderlikTablosu.resources
+C:\Users\Tolga ECEVİT\Desktop\Tolga ECEVİT - Mayın Tarlası\Tolga ECEVİT - Mayın Tarlası\obj\Debug\Tolga_ECEVİT___Mayın_Tarlası.OzelSecim.resources
